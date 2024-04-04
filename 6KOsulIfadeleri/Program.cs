@@ -78,6 +78,13 @@ namespace _6KOsulIfadeleri
                 Console.WriteLine("Sepetimde armut var!");
 
             }
+
+            //Short if
+            //(koşul) ? true sonucu: false sonucu
+
+            bool kontrol = (5 == 2) ? true : false;
+            Console.WriteLine(kontrol);
+
         }
     }
 }
