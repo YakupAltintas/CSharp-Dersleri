@@ -40,6 +40,8 @@ namespace Strings
 
             string value = "merhaba";
             Console.WriteLine(value[3]);
+
+          
         }
     }
 }
